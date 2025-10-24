@@ -22,6 +22,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  name: Configure Github pages
+  uses: actions/configure-page@v5
   # Build job
   build:
     runs-on: ubuntu-latest

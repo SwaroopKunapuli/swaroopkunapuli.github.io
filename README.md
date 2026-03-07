@@ -1,2 +1,2 @@
-# swaroopkunapuli.github.io
-Personal website displaying my work and interests.
+# Every problem is an equation and optimisation problem.
+Dives into computational reframing of problems in diverse domains.

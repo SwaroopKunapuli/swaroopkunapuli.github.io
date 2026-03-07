@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Simulating a protein using open-source tool LAMMPS"
-permalink: /TechnicalSnippets/MolecularDynamics
+permalink: /TechnicalSnippets/MolecularDynamics/ProteinsOnLammps
 ---
 
 # Using open-source tools to simulate a protein
+This post discusses the step-by-step procedure to simulate a protein using strictly free (including some open-source) software. 
 ## Tools utilised
  - Protein Data Bank (RCSB)
  - Visualization tools like ChimeraX, Avogadro and VMVD
